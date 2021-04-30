@@ -10,7 +10,7 @@ If you want to know more about me, you can:
 
 visit [my blog](https://everbrez.github.io/)
 
-send an email to [everbrez@gmail.com](everbrez@gmail.com)
+send an email to [everbrez@gmail.com](mailto:everbrez@gmail.com)
 
 visit my [bilibili](https://space.bilibili.com/32399192) profile
 
