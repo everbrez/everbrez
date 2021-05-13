@@ -12,6 +12,6 @@ visit [my blog](https://everbrez.github.io/)
 
 send an email to [everbrez@gmail.com](mailto:everbrez@gmail.com)
 
-visit my [bilibili](https://space.bilibili.com/32399192) profile
+<!--  visit my [bilibili](https://space.bilibili.com/32399192) profile -->
 
 <!-- ![everbrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=everbrez&count_private=true&show_icons=true&theme=dracula) -->
